@@ -12,5 +12,5 @@ https://imiedaprosa.github.io/Daprosa-Imie-Portfolio/
 * Visual Studio Code
 # My Contact 
 * Gmail: cathdaprosa25@gmail.com
-* GitHub:
+* GitHub: https://imiedaprosa.github.io/Daprosa-Imie-Portfolio/
 # Replection
